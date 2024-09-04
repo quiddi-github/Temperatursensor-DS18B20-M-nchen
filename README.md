@@ -1,4 +1,4 @@
-"# Temperatursensor-DS18B20-M-nchen" 
+"# Temperatursensor-DS18B20-München bei Steffi" 
 
 Stand: 4.9.2024\
 \
